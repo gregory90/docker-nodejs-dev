@@ -1,1 +1,1 @@
-command: /sbin/my_init -- nodemon app/server
+command: nodemon app/server

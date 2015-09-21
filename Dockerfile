@@ -1,4 +1,4 @@
-FROM gregory90/nodejs:0.12.7
+FROM gregory90/nodejs:4.1.0
 
 # Install nodemon
 RUN npm install -g nodemon@v1.0.17
